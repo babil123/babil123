@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+<<p align="center">
+  <img src="https://github.com/babil123/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" alt="Perfect Loop GIF">
+</p>
+!--
 **babil123/babil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
