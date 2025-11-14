@@ -69,9 +69,18 @@ Feel free to reach out if you're passionate about **Cloud, DevOps, or Automation
 ---
 ### 💰 Support My Journey
 <p align="center">
+
+  <!-- Buy Me a Coffee -->
+  <a href="https://www.buymeacoffee.com/babilbabu" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+  </a>
+
+  <!-- Google Pay -->
   <a href="upi://pay?pa=babilbkv2@oksbi&pn=Babil%20Babu&cu=INR" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Pay-Support%20Now-blue?style=for-the-badge&logo=google-pay" />
   </a>
+
 </p>
+
 
 
