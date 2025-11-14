@@ -72,7 +72,7 @@ Feel free to reach out if you're passionate about **Cloud, DevOps, or Automation
 
 <p align="center">
   <a href="upi://pay?pa=babilbkv2@oksbi&pn=Babil%20Babu&cu=INR" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20via-Google%20Pay-5F0A87?style=for-the-badge&logo=google-pay&logoColor=white&labelColor=7F00FF" />
+    <img src="https://img.shields.io/badge/Google%20Pay-Stand%20With%20Me-4285F4?style=for-the-badge&logo=google-pay&logoColor=white&labelColor=00000070" />
   </a>
 </p>
 
