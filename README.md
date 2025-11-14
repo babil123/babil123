@@ -67,10 +67,10 @@ Feel free to reach out if you're passionate about **Cloud, DevOps, or Automation
 </p>
 
 ---
-
 ### 💰 Support My Journey
 <p align="center">
-  <a href="https://www.buymeacoffee.com/babilbabu" target="_babilbkv2@oksbi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+  <a href="upi://pay?pa=babilbkv2@oksbi&pn=Babil%20Babu" target="_blank">
+    <img src="https://img.shields.io/badge/UPI-Support%20Now-success?style=for-the-badge" />
   </a>
 </p>
+
