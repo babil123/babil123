@@ -69,8 +69,9 @@ Feel free to reach out if you're passionate about **Cloud, DevOps, or Automation
 ---
 ### 💰 Support My Journey
 <p align="center">
-  <a href="upi://pay?pa=babilbkv2@oksbi&pn=Babil%20Babu" target="_blank">
-    <img src="https://img.shields.io/badge/UPI-Support%20Now-success?style=for-the-badge" />
+  <a href="upi://pay?pa=babilbkv2@oksbi&pn=Babil%20Babu&cu=INR" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Pay-Support%20Now-blue?style=for-the-badge&logo=google-pay" />
   </a>
 </p>
+
 
