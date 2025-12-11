@@ -45,19 +45,6 @@ Feel free to reach out if you're passionate about **Cloud, DevOps, or Automation
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-### ⭐ GitHub Stats  
-![Babil's GitHub stats](https://github-readme-stats.vercel.app/api?username=babil123&show_icons=true&theme=radical)
-
-### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=babil123&theme=dark)](https://git.io/streak-stats)
-
-### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=babil123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=babil123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
