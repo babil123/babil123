@@ -41,7 +41,7 @@ Feel free to reach out if you're passionate about **Cloud, DevOps, or Automation
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,ansible,terraform,aws,azure,gcp,git,github,gitlab,jenkins,prometheus,grafana,flutter,dart,postgres,kafka,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,ansible,terraform,aws,azure,gcp,git,github,githubaction,maven,gitlab,jenkins,prometheus,grafana,flutter,dart,postgres,kafka,nginx" />
 </p>
 
 ---
