@@ -47,24 +47,18 @@ Feel free to reach out if you're passionate about **Cloud, DevOps, or Automation
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babil123&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babil123&layout=compact&theme=tokyonight" height="165" />
-</p>
+![Babil’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=babil123&show_icons=true&theme=dark&cache_seconds=86400)
 
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=babil123&theme=onedark&no-frame=true&margin-w=15" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=babil123&theme=onedark)
+
 
 ---
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=babil123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=babil123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ### 💰 Support My Journey
