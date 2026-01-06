@@ -61,11 +61,6 @@ I explore the world of:
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=babil123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=babil123&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
