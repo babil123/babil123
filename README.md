@@ -29,30 +29,6 @@ I explore the world of:
 - ⚙️ Improving my skills in **Linux**, **Shell Scripting**, and **Networking**  
 - 🧩 Contributing to **Open Source DevOps tools & labs**  
 
----
-
-## ⚡ **DevOps Workflow**
-
-          ┌────────┐      ┌────────┐      ┌────────┐
-          │  CODE  │ ---> │ BUILD  │ ---> │  TEST  │
-          └────────┘      └────────┘      └────────┘
-                                 │
-                                 ▼
-                         ┌────────────┐
-                         │   DEPLOY   │
-                         └────────────┘
-                                 │
-                                 ▼
-                         ┌────────────┐
-                         │  MONITOR   │
-                         └────────────┘
-                                 │
-                                 ▼
-                             REPEAT ♻️
-
-
-
-A continuous journey of improving systems and automating processes.
 
 ---
 
@@ -76,19 +52,6 @@ A continuous journey of improving systems and automating processes.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,ansible,terraform,aws,azure,gcp,git,github,maven,gitlab,jenkins,prometheus,grafana,flutter,dart,postgres,kafka,nginx" />
 </p>
-
----
-
-# 📊 **GitHub Stats & Activity**
-
-### ⭐ GitHub Stats  
-![Babil's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=babil123&show_icons=true&theme=radical)
-
-### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=babil123&theme=dark)](https://git.io/streak-stats)
-
-### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=babil123&theme=onedark&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
